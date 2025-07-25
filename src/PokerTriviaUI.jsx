@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import React from 'react';
 
 const RANDOM_API = "https://poker-trivia-api.onrender.com/trivia/random";
 const SEARCH_API = "https://poker-trivia-api.onrender.com/trivia/search";

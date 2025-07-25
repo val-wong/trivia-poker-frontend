@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import React from 'react';
 
 function DailyQuestion() {
   const [question, setQuestion] = useState(null);
