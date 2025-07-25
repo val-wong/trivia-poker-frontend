@@ -12,7 +12,7 @@ function App() {
     setSelectedOption("");
     setIsCorrect(null);
     try {
-      const res = await fetch("https://trivia-poker-api.onrender.com/trivia/random");
+      const res = await fetch("https://trivia-poker-backend.onrender.com/trivia/random");
       const data = await res.json();
       setQuestion(data);
     } catch (err) {
