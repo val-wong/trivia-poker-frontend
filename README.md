@@ -59,7 +59,7 @@ npm run dev
 
 ### 🔗 Backend
 
-Consumes the [FastAPI backend](https://poker-trivia-api-backend.onrender.com).
+Consumes the [FastAPI backend](https://trivia-poker-backend.onrender.com).
 
 ---
 
